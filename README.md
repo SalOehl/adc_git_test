@@ -11,4 +11,4 @@ This file is also Markdown.
 ## Authors
 
 - SalOehl
-- test
+- New Person
