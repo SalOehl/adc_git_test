@@ -7,3 +7,8 @@ This file is also Markdown.
 
 - create a remote repository on Github
 - practise git
+
+## Authors
+
+- SalOehl
+- test
